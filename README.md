@@ -19,7 +19,11 @@ This Project was developed for the VIEH Internship (batch 6) by the team `CyberG
 Add the tweepyApi credentials and check the paths at which files are saved and loaded.
 
 
-## Contribs
+## Contributors
+Sandeep :- https://github.com/Agastya8
+Sarvesh Gupta:- https://github.com/Sarveshgupta20
+Navya.
+Srikar.
 Ml model is refered from https://github.com/dhavalpotdar/detecting-offensive-language-in-tweets
 
 ## Screenshots
