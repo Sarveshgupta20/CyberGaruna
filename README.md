@@ -22,8 +22,8 @@ Add the tweepyApi credentials and check the paths at which files are saved and l
 ## Contributors
 Sandeep :- https://github.com/Agastya8
 Sarvesh Gupta:- https://github.com/Sarveshgupta20
-Navya.
-Srikar.
+Navya Swarup :- https://github.com/navyaswarup20
+Srikar :- https://github.com/Akondi956
 Ml model is refered from https://github.com/dhavalpotdar/detecting-offensive-language-in-tweets
 
 ## Screenshots
