@@ -2,7 +2,11 @@
 Live cyberbullying/hate speech detection on twitter with integrated portal.
 <br/>
 <br/>
-This Project was developed for the VIEH Internship (batch 6) by the team `CyberGaruna`
+This Project was developed for the VIEH Internship (batch 6) by the team `CyberGaruna` <br/>
+Team members <br/>
+@Sarveshgupta20 <br/>
+@navyaswarup20 <br/>
+@Akondi956
 
 ## Todo
 1. Install the required packages mentioned in `Required_Packages.txt`.
